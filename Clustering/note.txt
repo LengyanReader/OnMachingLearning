@@ -1,0 +1,8 @@
+#
+聚类主要三种
+基于 质心 联通性 统计分布
+
+
+
+also refer，
+Practical_Guide_To_Cluster_Analysis_in_R_－_Unsupervised_Machine_Learning

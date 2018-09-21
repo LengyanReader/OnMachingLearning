@@ -1,0 +1,56 @@
+---
+title: "Brief and Detailed Description"
+author: "yunan"
+date: "2018年2月19日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r echo=FALSE}
+print(paste0(
+  "Last Updated Time: ", Sys.time()
+  
+))
+
+```
+
+#1 Intro & Preliminary
+
+**1.1 References**
+
+mainly on 
+
++ 吴喜之
++ 薛薇
++ 周志华 机器学习，2015
++ 李航 统计学习
+
+
+
+
+**1.2 Involved Tools**
+
++ R
++ Python
++ Julia
+
+
+
+
+
+
+## Tips
+
+
+###1   Why does the case of 'epochs>1' come out?
+
+
+
+
+
+
+
+
